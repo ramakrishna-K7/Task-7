@@ -1,4 +1,4 @@
-                        TASK 5: Build a Kubernetes Cluster Locally with Minikube
+                        TASK 7: Monitor System Resources Using Netdata
 
 STEP 1: Launch EC2 Instance
 •	AMI: Amazon Linux (Kernel 5.10)
